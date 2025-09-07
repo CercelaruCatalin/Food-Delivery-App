@@ -1,0 +1,10 @@
+[lcl-host]
+realm-apid = 'localhost'
+
+[org]
+apid = 'cercelarucatalin'
+
+[service]
+apid = 'licenta'
+category = 'javascript'
+cert-style = 'acme'
